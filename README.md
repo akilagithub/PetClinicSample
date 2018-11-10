@@ -1,2 +1,2 @@
 # PetClinicSample
-welcome to petclinic
+welcome to petclinicdemo
